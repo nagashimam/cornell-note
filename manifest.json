@@ -1,0 +1,10 @@
+{
+	"id": "cornell-note",
+	"name": "Cornell note",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Lays out notes based on the Cornell note-taking style",
+	"author": "nagashimam",
+	"authorUrl": "https://obsidian.md",
+	"isDesktopOnly": false
+}
