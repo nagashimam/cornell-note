@@ -12,7 +12,7 @@ export default class CornellNotePlugin extends Plugin {
 
 		this.addCommand({
 			id: "redraw",
-			name: "Redraw Cornell note",
+			name: "Redraw note",
 			callback: () => {
 				const view = this.app.workspace.getActiveViewOfType(MarkdownView);
 				if (!view) {

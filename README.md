@@ -40,7 +40,7 @@ Write what you have learned in today's lecture.
 
 After you have finished editing and switched to preview mode, your notes will be styled according to the Cornell note-taking system. Styles are not applied during editing mode, as I feel more comfortable editing normal notes than Cornell notes.
 
-## `Redraw Cornell note` command
+## `Redraw note` command
 
 Sometimes, this plugin fails to apply styles properly and your notes look weird even after you've switched to preview mode. You should be able to fix the layout by running `Redraw Cornell note` command to apply styles again.
 
